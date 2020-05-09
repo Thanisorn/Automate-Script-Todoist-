@@ -1,0 +1,9 @@
+*** Settings ***
+
+Library     Selenium2Library
+Library     String
+Library     BuiltIn
+Library     Collections
+Library     Screenshot
+Resource    Keywords/Common.robot
+Resource  	Variables/Variable.robot
